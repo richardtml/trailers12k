@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Trailers12k Dataset
 
 You can use the [editor on GitHub](https://github.com/richardtml/trailers12k/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
