@@ -9,7 +9,7 @@ hide:
 
 ## Overview
 
-Trailers12k is a movie trailer dataset composed of 12,000 titles associated to ten genres. It distinguishes from other datasets by its collection procedure aiming to provide a high-quality publicly available dataset. The following table compares Trailers12k to other similar datasets.
+[Trailers12k](https://doi.org/10.5281/zenodo.5716409) is a movie trailer dataset comprised of 12,000 titles associated to ten genres. It distinguishes from other datasets by its collection procedure aimed at providing a high-quality publicly available dataset. The following table compares Trailers12k to other similar datasets.
 
 ![Trailer12k Comparison Table](images/table.png)
 
@@ -20,7 +20,7 @@ This dataset is an updated and polished version of [Trailers15k](https://turing.
 
 ## Data
 
-All data is available on [Zenodo](https://doi.org/10.5281/zenodo.6499328) and summarized in following table:
+All data is available on [Zenodo](https://doi.org/10.5281/zenodo.5716409) and summarized in following table:
 
 <table>
     <thead>
