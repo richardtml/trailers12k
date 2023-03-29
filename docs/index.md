@@ -13,7 +13,7 @@ hide:
 
 ![Trailer12k Comparison Table](images/table.png)
 
-A detailed explanation of the collection procedure, statistics and computing process of trailer representations can be found in the paper [Trailers12k: Improving Transfer Learning with a Dual Image and Video Transformer for Multi-label Movie Trailer Genre Classification](https://arxiv.org/abs/2210.07983).
+A detailed explanation of the collection procedure, statistics and computing process of trailer representations can be found in the paper [Improving Transfer Learning for Movie Trailer Genre Classification using a Dual Image and Video Transformer](https://arxiv.org/abs/2210.07983).
 
 This dataset is an updated and polished version of [Trailers15k](https://turing.iimas.unam.mx/~bereml/project/trailers/). In addition to manually-curated movie trailers, Trailers12k provides Kinetics video clip-level representations, ImageNet poster representations and rich metadata.
 
@@ -146,15 +146,18 @@ df = df.iloc[:, 0:11]
 If you find this work useful in your research, please consider citing.
 
 ```
-@misc{trailers12k,
-  doi = {10.48550/ARXIV.2210.07983},
-  url = {https://arxiv.org/abs/2210.07983},
-  title = {{Trailers12k}: Improving Transfer Learning with a Dual Image and Video Transformer for Multi-label Movie Trailer Genre Classification},
-  author = {Montalvo-Lezama, Ricardo and Montalvo-Lezama, Berenice and Fuentes-Pineda, Gibran},
-  keywords = {Movie genre classification, Transfer learning, Video dataset, Spatio-temporal representations, Video understanding, Transformers, Resource efficient architectures},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+@article{Trailers12k-2023103343,
+title = {Improving Transfer Learning for Movie Trailer Genre Classification using a Dual Image and Video Transformer},
+journal = {Information Processing & Management},
+volume = {60},
+number = {3},
+pages = {103343},
+year = {2023},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2023.103343},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457323000808},
+author = {Ricardo Montalvo-Lezama and Berenice Montalvo-Lezama and Gibran Fuentes-Pineda},
+keywords = {Multi-label classification, Transfer learning, Trailers12k, Spatio-temporal analysis, Video analysis, Transformer model},
 }
 ```
 
