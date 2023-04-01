@@ -126,7 +126,7 @@ You can see a full implementation of a Pytorch Dataset in the [DIViTA repo](http
 
 
 #### MTGC Evaluation
-`trailers12k_mtgc.csv` provides a stratified three fold evaluation split for the multi-label genre classification task with the following columns.
+`trailers12k_mtgc.csv` provides a stratified three-fold evaluation split for the multi-label genre classification task with the following columns.
 
 * `mid`: movie identifier.
 * `action`, `adventure`, `comedy`, `crime`, `drama`, `fantasy`, `horror`	`romance`, `sci-fi` & `thriller`: genres as binary labels.
