@@ -142,7 +142,7 @@ df = df.iloc[:, 0:11]
 ```
 
 ## License
-[CC BY-NC-SA Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+[Creative Commons Attribution Non Commercial Share Alike 4.0 International CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 
 ## Citing
