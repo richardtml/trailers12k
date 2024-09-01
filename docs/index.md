@@ -141,6 +141,9 @@ df = df[df['split2'] == 1]
 df = df.iloc[:, 0:11]
 ```
 
+## License
+[CC BY-NC-SA Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 
 ## Citing
 If you find this work useful in your research, please consider citing.
